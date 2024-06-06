@@ -4,8 +4,8 @@
   "description": "back end de livraria ",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js"
+    "start": "node app.js"
+
   },
   "author": "jucivan",
   "license": "ISC",
